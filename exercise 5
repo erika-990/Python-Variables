@@ -1,0 +1,3 @@
+y = "10"
+y_int = int(y)
+print(y_int * 3)
