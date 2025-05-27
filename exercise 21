@@ -1,0 +1,2 @@
+z = None
+print(z is None)
