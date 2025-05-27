@@ -1,0 +1,3 @@
+loat_str = "3.1415"
+f = float(float_str)
+print(f)
