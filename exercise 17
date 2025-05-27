@@ -1,0 +1,4 @@
+lst = [4, 5, 6]
+x = lst
+x.append(7)
+print(lst)  # [4,5,6,7]
