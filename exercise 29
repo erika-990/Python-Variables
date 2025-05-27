@@ -1,0 +1,2 @@
+csv = "a,b,c"
+print(csv.split(","))
